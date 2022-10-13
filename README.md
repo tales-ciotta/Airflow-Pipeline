@@ -21,7 +21,7 @@ Esse repositório é parte de um desafio do programa Lighthouse da empresa Indic
 Cheque o arquivo requirements.txt para verificar todas bibliotecas utilizadas com mais detalhes.
 ## Criação das tasks
 
-O código completo se encontra no arquivo elt_dag.pydentro da pasta './airflow-data/dags', mas as funções e operadores python criados podem ser observados separadamente nesta seção.
+O código completo se encontra no arquivo elt_dag.py dentro da pasta './airflow-data/dags', mas as funções e operadores python criados podem ser observados separadamente nesta seção.
 
 #### Para a primeira task, é necessário extrair a tabela 'Order' em um arquivo de formato csv. Para isso define-se a função:
 ```
