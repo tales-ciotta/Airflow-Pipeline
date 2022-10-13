@@ -17,6 +17,7 @@ Esse repositório é parte de um desafio do programa Lighthouse da empresa Indic
 * Airflow instalado localmente
 * Biblioteca pandas
 * Biblioteca sqlite3
+
 Cheque o arquivo requirements.txt para verificar todas bibliotecas utilizadas com mais detalhes.
 ## Criação das tasks
 
